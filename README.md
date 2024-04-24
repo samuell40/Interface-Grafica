@@ -14,7 +14,7 @@ Este projeto foi desenvolvido utilizando a linguagem de programação Python, at
 
 Para utilizar a aplicação, basta executar o arquivo main.py. Isso abrirá a interface gráfica da aplicação. O usuário inicial é definido como "ADMIN" e a senha é "123". Após o login bem-sucedido, você terá acesso à janela com as funcionalidades listadas acima.
 
-Projeto desenvolvido por:
+## Projeto desenvolvido por:
 - João Pedro Barros  
   [LinkedIn](https://www.linkedin.com/in/joao-pedro-barros2/)
 
