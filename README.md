@@ -5,7 +5,7 @@ Este projeto foi desenvolvido utilizando a linguagem de programação Python, at
 ## Funcionalidades da Aplicação
 
 - Login de Usuário: Permite que os usuários se autentiquem fornecendo um nome de usuário e senha.
-  Cadastro de Novos Usuários: Permite o registro de novos usuários na aplicação, exigindo um código, nome de usuário e senha.
+- Cadastro de Usuários: Permite o registro de novos usuários na aplicação, exigindo um código, nome de usuário e senha.
 - Busca de Usuários: Permite buscar por usuários existentes na aplicação pelo nome de usuário.
 - Exclusão de Usuários: Permite que usuários logados excluam outros usuários cadastrados na aplicação, fornecendo o código do usuário a ser excluído.
 - Encerramento da Aplicação: Fornece um botão para encerrar a aplicação a qualquer momento.
