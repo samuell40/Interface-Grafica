@@ -79,3 +79,4 @@ def excluir():
 
 def fechar_app():
     app.destroy()
+
